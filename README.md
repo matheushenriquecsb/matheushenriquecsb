@@ -16,10 +16,10 @@
 ### ⚙️ Backend 
  
 [![NodeJS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)](https://nodejs.org) 
-[![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://www.javascript.com)
-[![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+[![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://javascript.com)
+[![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)](https://typescriptlang.org/)
 [![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)](https://nestjs.com)
-[![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)](https://www.php.net/) 
+[![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)](https://php.net/) 
 [![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)](https://laravel.com/)
 [![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=jsonwebtokens)](https://jwt.io)  
 
@@ -27,7 +27,9 @@
  
 [![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)](https://www.mongodb.com)
 [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://www.mysql.com)
+[![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)](https://postgresql.com)
 [![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)](https://redis.io)
+[![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)](https://docker.com)
 
 
 
