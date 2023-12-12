@@ -44,6 +44,8 @@
 [![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)](https://postgresql.com)
 [![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)](https://redis.io)
 [![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)](https://docker.com)
+[![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)](https://prisma.io)
+
 
 ### 🛠 Tools / Softwares 
  
