@@ -50,7 +50,7 @@
 ### 🛠 Tools / Softwares 
  
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=blue)](https://code.visualstudio.com)
-[![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=Git)](https://git=scm.com)
+[![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=Git)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/Github-333333?style=flat&logo=Github)](https://github.com)
 [![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=Postman)](https://postman.com)
 [![Insomnia](https://img.shields.io/badge/Insomnia-333333?style=flat&logo=insomnia&logoColor=blue)](https://insomnia.rest)
