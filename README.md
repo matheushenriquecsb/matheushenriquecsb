@@ -7,8 +7,8 @@
 <a href="mailto:matheus.mhg2@gmail.com"><img src="https://img.shields.io/badge/-matheus.mhg2@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>   
 
 - Sou de Salvador/BA, Brasil 
-- Graduado como Técnico em Automação Industrial
-- Atualmente finalizando a Graduação em Análise e Desenvolvimento de Sistemas  
+- Formado como Técnico em Automação Industrial
+- Graduado em Análise e Desenvolvimento de Sistemas  
   
 ## Portfolio Pessoal
 
@@ -54,6 +54,7 @@
 [![GitHub](https://img.shields.io/badge/Github-333333?style=flat&logo=Github)](https://github.com)
 [![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=Postman)](https://postman.com)
 [![Insomnia](https://img.shields.io/badge/Insomnia-333333?style=flat&logo=insomnia&logoColor=blue)](https://insomnia.rest)
+[![Aws](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)](https://insomnia.rest)
  
   
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheushenriquecsb) 
