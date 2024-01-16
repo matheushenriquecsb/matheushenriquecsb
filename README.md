@@ -40,8 +40,7 @@
 ### 🛠 Database 
  
 [![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)](https://www.mongodb.com)
-[![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://www.mysql.com)
-[![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)](https://postgresql.com)
+[![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)](https://postgresql.com) 
 [![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)](https://redis.io)
 [![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)](https://docker.com)
 [![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)](https://prisma.io)
@@ -54,7 +53,7 @@
 [![GitHub](https://img.shields.io/badge/Github-333333?style=flat&logo=Github)](https://github.com)
 [![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=Postman)](https://postman.com)
 [![Insomnia](https://img.shields.io/badge/Insomnia-333333?style=flat&logo=insomnia&logoColor=blue)](https://insomnia.rest)
-[![Aws](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)](https://insomnia.rest)
+[![Aws](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com)
  
   
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheushenriquecsb) 
