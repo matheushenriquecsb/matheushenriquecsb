@@ -19,7 +19,7 @@
 ### 💻 Frontend  
  
 [![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)](https://pt-br.reactjs.org)
-[![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)](https://vitejs.dev)
+[![Vue](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=vuedotjs)](https://vuejs.org)
 [![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
  
@@ -52,7 +52,7 @@
 [![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=Git)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/Github-333333?style=flat&logo=Github)](https://github.com)
 [![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=Postman)](https://postman.com)
-[![Insomnia](https://img.shields.io/badge/Insomnia-333333?style=flat&logo=insomnia&logoColor=blue)](https://insomnia.rest)
+[![Insomnia](https://img.shields.io/badge/Insomnia-333333?style=flat&logo=insomnia&logoColor=5849BE)](https://insomnia.rest)
 [![Aws](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com)
  
   
