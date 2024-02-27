@@ -21,6 +21,7 @@
 [![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)](https://pt-br.reactjs.org)
 [![Vue](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=vuedotjs)](https://vuejs.org)
 [![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)](https://tailwindcss.com/)
 [![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
  
 ### ⚙️ Backend   
