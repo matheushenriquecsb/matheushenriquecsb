@@ -56,6 +56,7 @@
 [![Insomnia](https://img.shields.io/badge/Insomnia-333333?style=flat&logo=insomnia&logoColor=5849BE)](https://insomnia.rest)
 [![Aws](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com)
 [![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase)](https://firebase.google.com)
+[![Swagger](https://img.shields.io/badge/Swagger-333333?style=flat&logo=swagger)](https://swagger.io/)
  
   
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheushenriquecsb) 
