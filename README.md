@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  
-## 👨🏻‍💻 Hi, I'm Matheus Henrique, Backend Developer <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+## 👨🏻‍💻 Hi, I'm Matheus Henrique, FullStack Developer <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 <a href="https://instagram.com/matheushenriquebc"><img src="https://img.shields.io/badge/-@matheushenriquebc_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/matheus-henrique-batista-120821"><img src="https://img.shields.io/badge/-Matheus%20Henrique-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -19,13 +19,17 @@
 ### 💻 Frontend  
  
 [![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)](https://pt-br.reactjs.org)
+[![Next](https://img.shields.io/badge/NextJS-333333?style=flat&logo=nextdotjs)](https://nextjs.org)
 [![Vue](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=vuedotjs)](https://vuejs.org) 
-[![Styled-Components](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styledcomponents )](https://styled-components.com/)
-[![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)](https://getbootstrap.com/)
-[![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=blue)](https://redux.js.org/) 
 [![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![Styled-Components](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styledcomponents )](https://styled-components.com/)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)](https://getbootstrap.com/) 
+[![AntD](https://img.shields.io/badge/-AntD-333333?style=flat&logo=antdesign&logoColor=blue)](https://ant.design) 
+[![Auth0](https://img.shields.io/badge/-Auth0-333333?style=flat&logo=auth0&logoColor=red)](https://auth0.com/) 
+[![MaterialUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=mui)](https://mui.com/) 
  
 ### ⚙️ Backend   
 
@@ -52,13 +56,13 @@
 
 ### 🛠 Tools / Softwares 
  
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=blue)](https://code.visualstudio.com)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=flat&logo=vscode&logoColor=blue)](https://code.visualstudio.com)
 [![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=Git)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/Github-333333?style=flat&logo=Github)](https://github.com)
 [![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=Postman)](https://postman.com)
 [![Insomnia](https://img.shields.io/badge/Insomnia-333333?style=flat&logo=insomnia&logoColor=5849BE)](https://insomnia.rest)
-[![Aws](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com)
-[![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase)](https://firebase.google.com)
+[![Aws](https://img.shields.io/badge/AWS-333333?style=flat&logo=Amazon&logoColor=FF9900)](https://aws.amazon.com)
+[![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase&logoColor=red)](https://firebase.google.com)
 [![Swagger](https://img.shields.io/badge/Swagger-333333?style=flat&logo=swagger)](https://swagger.io/)
  
   
